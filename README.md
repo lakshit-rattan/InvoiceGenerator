@@ -1,4 +1,4 @@
-# Simple_InvoiceGen_React_Native
+# Simple Invoice Generator Application React Native
 
 This is a simple React Native app with navigation between two screens - `HomeScreen` and `CreateBill`. After filling form and hitting submit button, an automated Invoice will be generated and saved on the device which can be viewed easily.
 
